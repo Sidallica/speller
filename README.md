@@ -1,5 +1,8 @@
 # speller
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
+
+
 Implement a program that spell-checks a file, a la the below, using a hash table.
 ```
 $ ./speller texts/lalaland.txt
